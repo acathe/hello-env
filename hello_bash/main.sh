@@ -31,7 +31,7 @@ parse_args() {
 }
 
 main() {
-    echo "Hello, world"
+    echo "Hello, world!"
 }
 
 if [[ $0 == "${BASH_SOURCE[0]}" ]]; then
