@@ -1,8 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/HelloCsharp/HelloCsharp.csproj" />
-  </Folder>
-  <Folder Name="/tests/">
-    <Project Path="tests/HelloCsharp.Tests/HelloCsharp.Tests.csproj" />
-  </Folder>
-</Solution>
